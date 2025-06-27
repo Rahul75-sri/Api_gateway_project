@@ -1,0 +1,9 @@
+_format_version: "3.0"
+services:
+  - name: user-service
+    url: http://userservice:8081
+    routes:
+      - name: user-api-route
+        paths:
+          - /api/users
+        strip_path: true

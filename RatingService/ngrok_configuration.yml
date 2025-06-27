@@ -1,0 +1,8 @@
+
+version: 2
+authtoken: 2y2CWHTntzW2OK6jBrevJAa2Asa_21Q2AD8AHhhnesyUuqkNQ
+
+tunnels:
+  rating-service:
+    addr: ratingservice:8084
+    proto: http
