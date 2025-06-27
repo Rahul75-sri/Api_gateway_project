@@ -1,1 +1,2 @@
 # Api_gateway_project
+This comprehensive project demonstrates the implementation of a robust API Gateway system using Spring Boot microservices with Nginx as the gateway, coupled with advanced log aggregation and analytics capabilities through Loki, Promtail, and Grafana. The system provides seamless service routing, centralized logging, and powerful analytical insights for monitoring and troubleshooting microservices-based applications.
